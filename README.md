@@ -1,13 +1,14 @@
 BrutalCrypter
 =============
 
-#Requirements
--------------
-**Python RSA
+###Requirements
+**Python RSA**
     pip install rsa
-**Python Cryptography Toolkit
+**Python Cryptography Toolkit**
     pip install Crypto
 
-#To use this, run:
+-------------
+
+###To use this, run:
 
     python brutalcrypter.py
