@@ -11,7 +11,7 @@ from Crypto.Cipher import PKCS1_OAEP
 from base64 import b64decode
 
 # Brutal Crypter
-
+###
 # Limpar tela
 os.system('cls' if os.name == 'nt' else 'clear')
 
